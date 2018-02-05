@@ -14,7 +14,7 @@
 			"wordCount": 63142,
 			"links": [
                 {
-                    "href": "https://raw.githubusercontent.com/inshapardaz/data/raw/master/dictionaries/1.dat",
+                    "href": "https://raw.githubusercontent.com/inshapardaz/data/master/dictionaries/1.dat",
                     "rel": "download",
                     "type": "application/x-sqlite3"
                 }
@@ -28,7 +28,7 @@
 			"wordCount": 261019,
 			"links": [
                 {
-                    "href": "https://raw.githubusercontent.com/inshapardaz/data/raw/master/dictionaries/2.dat",
+                    "href": "https://raw.githubusercontent.com/inshapardaz/data/master/dictionaries/2.dat",
                     "rel": "download",
                     "type": "application/x-sqlite3"
                 }
@@ -42,7 +42,7 @@
 			"wordCount": 30005,
 			"links": [
                 {
-                    "href": "https://raw.githubusercontent.com/inshapardaz/data/raw/master/dictionaries/3.dat",
+                    "href": "https://raw.githubusercontent.com/inshapardaz/data/master/dictionaries/3.dat",
                     "rel": "download",
                     "type": "application/x-sqlite3"
                 }
