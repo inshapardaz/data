@@ -1,0 +1,52 @@
+{
+	"links": [
+        {
+            "href": "https://github.com/inshapardaz/data/raw/master/offlineItems.json",
+            "rel": "self"
+        }
+    ],
+	"items": [{
+			"id": 1,
+			"name": "CRULP",
+			"language": 2,
+			"userId": "9874221c-a12b-47f3-8455-9b05c91e4b53",
+			"isPublic": true,
+			"wordCount": 63142,
+			"links": [
+                {
+                    "href": "https://github.com/inshapardaz/data/raw/master/dictionaries/1.dat",
+                    "rel": "download",
+                    "type": "application/x-sqlite3"
+                }
+            ]
+		}, {
+			"id": 2,
+			"name": "Urdu Lughat Board",
+			"language": 2,
+			"userId": "9874221c-a12b-47f3-8455-9b05c91e4b53",
+			"isPublic": true,
+			"wordCount": 261019,
+			"links": [
+                {
+                    "href": "https://github.com/inshapardaz/data/raw/master/dictionaries/2.dat",
+                    "rel": "download",
+                    "type": "application/x-sqlite3"
+                }
+            ]
+		}, {
+			"id": 3,
+			"name": "urdulughat.info",
+			"language": 2,
+			"userId": "9874221c-a12b-47f3-8455-9b05c91e4b53",
+			"isPublic": true,
+			"wordCount": 30005,
+			"links": [
+                {
+                    "href": "https://github.com/inshapardaz/data/raw/master/dictionaries/3.dat",
+                    "rel": "download",
+                    "type": "application/x-sqlite3"
+                }
+            ]	
+		}
+	]
+}
